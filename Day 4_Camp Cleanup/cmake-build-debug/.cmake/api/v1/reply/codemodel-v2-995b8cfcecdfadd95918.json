@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Day_3_Rucksack_Reorganization",
+					"name" : "Day_4_Camp_Cleanup",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Day_3_Rucksack_Reorganization::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Day_3_Rucksack_Reorganization-Debug-7acb5b8d7a0b210927a7.json",
-					"name" : "Day_3_Rucksack_Reorganization",
+					"id" : "Day_4_Camp_Cleanup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day_4_Camp_Cleanup-Debug-d8042f214005539347a1.json",
+					"name" : "Day_4_Camp_Cleanup",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug",
-		"source" : "D:/Advent of Code 2022/Day 3_Rucksack Reorganization"
+		"build" : "D:/Advent of Code 2022/Day 4_Camp Cleanup/cmake-build-debug",
+		"source" : "D:/Advent of Code 2022/Day 4_Camp Cleanup"
 	},
 	"version" : 
 	{

@@ -1,3 +1,4 @@
-D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug/CMakeFiles/Day_3_Rucksack_Reorganization.dir
+D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug/CMakeFiles/parte1.dir
+D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug/CMakeFiles/parte2.dir
 D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Advent of Code 2022/Day 3_Rucksack Reorganization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
