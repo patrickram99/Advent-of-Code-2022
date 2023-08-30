@@ -7,4 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 .cmake
-cmake-build-debug/
+
+Advent-of-Code-2022/Day 1_Calorie Counting/cmake-build-debug/
